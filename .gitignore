@@ -13,8 +13,4 @@ cypress/screenshots/
 
 # OS
 .DS_Store
-<<<<<<< HEAD
 Thumbs.db
-=======
-Thumbs.db
->>>>>>> c7dd7cef9c7e1f6bb8bd2bc5cc0008e83a33e5c1
